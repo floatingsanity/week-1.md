@@ -1,0 +1,62 @@
+#was the backend or frontend responsible for the bug in the video?#
+
+#What languages do you see in this video? List ALL of them. If you're not sure what the language is, but you know there's an additional
+one,indicate that#
+
+  HTML-CSS -JavaScript - Python 
+
+#What tools, strategies, and workflows used in the video do you think are common across all web development?#
+
+  Version control systems (e.g., Git)
+  Text editors or integrated development environments (IDEs)
+  Browser developer tools for debugging
+  Use of frameworks and libraries
+
+#What strategies used in the video help with debugging?#
+
+  dentifying and fixing errors in code logic step by step
+  Utilizing breakpoints to pause code execution for inspection
+
+#What strategies have you used before that are shown here for debugging?#
+
+  Step-by-step code execution for identifying and resolving errors
+
+*What tools and approaches used in the video do you think help in quality control / quality assurance?*
+
+Code reviews and collaboration with team members
+Responsive design testing to ensure compatibility on various devices
+
+###What are 5 syntaxes / pieces of code shown you DO recognize (could be of any scale or size), time stamp (link) or screenshot it and
+list what they are them. (screen shots can be drag and dropped into the comment area below your gist)##
+
+[00:18] HTML <div> element.
+[02:05] JavaScript variable declaration: const.
+[03:00] JavaScript function declaration: function myFunction() { }.
+[05:12] CSS class selector: .classname { }.
+[06:45] JavaScript console.log() statement.
+
+##What are 5 syntaxes / pieces of code shown you DON'T recognize, time stamp (link) or screenshot it and list what they are them.
+(screen shots can be drag and dropped into the comment area below your gist)##
+
+
+(insert meme here :p).
+
+
+#You just wrote responses to these questions in Markdown. What even is that? What
+is Markdown and how is it similar, different, or related to HTML?#
+
+Markdown is a lightweight markup language that is used to format plain text documents. It is similar to HTML in that it allows you 
+to structure and format text, but it is simpler and uses plain text to define formatting rather than using tags. Markdown is often 
+used for writing documentation, README files, and other text-based content for the web. HTML, on the other hand, is a markup
+language that uses tags and attributes to define the structure and content of web pages.
+
+#What are 3 things you CAN NOT do in markdown that you CAN do in HTML?#
+
+Create complex web page layouts: Markdown is primarily used for formatting text and does not provide the same level of control 
+over page layout as HTML does.
+Complex Layouts: Markdown is limited in creating complex page layouts. In HTML, you have full control over the structure and
+positioning of elements.
+Interactivity: HTML allows you to create interactive web pages with forms, buttons, and scripting (JavaScript), 
+while Markdown focuses on content and presentation.
+
+
